@@ -1,3 +1,11 @@
+## Alunos: 
+
+- Felipe Torlai RM 550263
+- Felipe Pinheiro RM 550244
+- Gabriel Girami RM 98017
+- Gustavo Vinhola RM 98826
+- Jean Carlos RM 550430
+
 # Spring3Hibernate - A OpsTree Sample Maven based Java Application
 
 The main goal of this awesome Java Webapp is to encourage people to dive deep in Java Application Architecture and how we can make delivery pipeline faster, easier and much reliable using **Continous Integration**.
